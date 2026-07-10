@@ -8,3 +8,7 @@ Three Tools for UV Editing /UV編集のための3つのツール
 
 
 
+*********************************************
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/PiscesWorkshop)
+- <Free> If you like it, please consider supporting us.
+- ＜無償＞気に入ったらサポートして下さい。
